@@ -1,0 +1,10 @@
+{
+  "name": "fmd-folio",
+  "private": true,
+  "type": "module",
+  "description": "FMD Folio — NHDCL e-library (static flipbook app + Vercel Blob API)",
+  "dependencies": {
+    "@vercel/blob": "^2.8.2"
+  },
+  "engines": { "node": ">=20" }
+}
